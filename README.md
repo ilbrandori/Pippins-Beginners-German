@@ -9,12 +9,7 @@ This repo contains source files and downloadable Anki Decks.
 
 If you've never heard of [Anki](https://apps.ankiweb.net/) you are in for a treat. Anki is an open source [spaced repetition system](https://en.wikipedia.org/wiki/Spaced_repetition) that allows you to memorize material faster. Think of flashcards on steroids. 
 
----
-**NOTE**
-
 Check Anki out at: https://apps.ankiweb.net/ and see how other humans are using it to [better themselves](https://www.youtube.com/results?search_query=anki+learn).
-
----
 
 ## Project goal
 I'd like to produce enough material to help anyone **pass** the German language [B2 examinaition](https://www.sprachenatelier-berlin.de/en/article/1228.german-as-a-second-language-proficiency-levels.html). 
@@ -43,7 +38,7 @@ Please choose:
 
 See the [How to Download Anki and Begin Using It](https://www.youtube.com/watch?v=AjdUxCnAXJw) tutorial from The AnKing Youtube channel. I highly recommend this channel to understand *how to get the most of Anki*. Also, take a moment to understand how spaced repetition works and how Anki helps you achieve this.   
 
-### (2) Get the decks and begin
+## (2) Get the decks and begin
 [Download flashcards here](https://ankiweb.net/shared/info/822769934) or [here](https://ankiweb.net/shared/info/822769934)
 
 ## Contribute
