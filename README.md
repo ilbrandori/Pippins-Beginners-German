@@ -1,4 +1,4 @@
-**[Download flashcards here](https://ankiweb.net/shared/info/822769934) or [here](https://ankiweb.net/shared/info/822769934)**
+**[Download flashcards here](https://github.com/ilbrandori/Pippins-Beginners-German/blob/master/Decks/Pippins%20Beginners%20German%20-%20A1%20Verbs%20v421.apkg) or [here](https://ankiweb.net/shared/info/822769934)**
 
 # Pippins Beginners German
 [Pippins Beginners German](https://github.com/ilbrandori/Pippins-Beginners-Germans) is a collection of German language [Anki flashcard](https://ankiweb.net/shared/info/822769934) decks to help you improve your German language comprehension. Use Pippins Beginners German to master beginner (A-level) and intermediate (B-level) vocabulary and ace your German language proficency examinations.  
@@ -39,7 +39,7 @@ Please choose:
 See the [How to Download Anki and Begin Using It](https://www.youtube.com/watch?v=AjdUxCnAXJw) tutorial from The AnKing Youtube channel. I highly recommend this channel to understand *how to get the most of Anki*. Also, take a moment to understand how spaced repetition works and how Anki helps you achieve this.   
 
 ## (2) Get the decks and begin
-[Download flashcards here](https://ankiweb.net/shared/info/822769934) or [here](https://ankiweb.net/shared/info/822769934)
+[Download flashcards here](https://github.com/ilbrandori/Pippins-Beginners-German/blob/master/Decks/Pippins%20Beginners%20German%20-%20A1%20Verbs%20v421.apkg) or [here](https://ankiweb.net/shared/info/822769934)
 
 ## Contribute
 
