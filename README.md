@@ -1,88 +1,66 @@
+**[Download flashcards here](https://ankiweb.net/shared/info/822769934) or [here](https://ankiweb.net/shared/info/822769934)**
+
 # Pippins Beginners German
+[Pippins Beginners German](https://github.com/ilbrandori/Pippins-Beginners-Germans) is a collection of German language [Anki flashcard](https://ankiweb.net/shared/info/822769934) decks to help you improve your German language comprehension. Use Pippins Beginners German to master beginner (A-level) and intermediate (B-level) vocabulary and ace your German language proficency examinations.  
 
-One Paragraph of project description goes here
+This repo contains source files and downloadable Anki Decks.
 
-## Getting Started
+## Anki who?
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+If you've never heard of [Anki](https://apps.ankiweb.net/) you are in for a treat. Anki is an open source [spaced repetition system](https://en.wikipedia.org/wiki/Spaced_repetition) that allows you to memorize material faster. Think of flashcards on steroids. 
 
-### Prerequisites
+---
+**NOTE**
 
-What things you need to install the software and how to install them
+Check Anki out at: https://apps.ankiweb.net/ and see how other humans are using it to [better themselves](https://www.youtube.com/results?search_query=anki+learn).
 
-```
-Give examples
-```
+---
 
-### Installing
+## Project goal
+I'd like to produce enough material to help anyone **pass** the German language [B2 examinaition](https://www.sprachenatelier-berlin.de/en/article/1228.german-as-a-second-language-proficiency-levels.html). 
 
-A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+## What's included?
+Most decks include:
 
-```
-Give the example
-```
+* German to English / English to German flip cards with audio
+* German Sentence / English Sentence with audio
+* Present, past, future and perfect conjugation tables
+* Auxiliary haben / sein indicator
+* Stammvokal change indicator
 
-And repeat
+# Two step Cha-cha!
 
-```
-until finished
-```
+## (1) Pick your Anki flavor and install
 
-End with an example of getting some data out of the system or using it for a little demo
+Anki is available for Windows, MacOS, Linux operating systems and supports both iPhone/Android devices. 
+Please choose: 
 
-## Running the tests
+- [Windows](https://apps.ankiweb.net/#windows)
+- [MacOS](https://apps.ankiweb.net/#mac)
+- [Linux](https://apps.ankiweb.net/#linux)
+- [iPhone/Android](https://apps.ankiweb.net/#ios)
 
-Explain how to run the automated tests for this system
+See the [How to Download Anki and Begin Using It](https://www.youtube.com/watch?v=AjdUxCnAXJw) tutorial from The AnKing Youtube channel. I highly recommend this channel to understand *how to get the most of Anki*. Also, take a moment to understand how spaced repetition works and how Anki helps you achieve this.   
 
-### Break down into end to end tests
+### (2) Get the decks and begin
+[Download flashcards here](https://ankiweb.net/shared/info/822769934) or [here](https://ankiweb.net/shared/info/822769934)
 
-Explain what these tests test and why
+## Contribute
 
-```
-Give an example
-```
+**Is this high quality?** 
+Kinda, but there are still ugly bugs, and typos to be uncovered. If you happen to spot one you can:
 
-### And coding style tests
+* [Submit a ticket](https://forms.gle/vbVNECZmXNG8cHuH7)
+* [Open an issue](https://github.com/ilbrandori/Pippins-Beginners-German/issues)
+* [Submit a pull request](https://github.com/ilbrandori/Pippins-Beginners-German/pulls)
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Do reach out!
 
 ## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+**Brando Rico** - *Initial seed and most of the grunt work* - 
 
 ## License
+Creative Commons Zero v1.0 Universal The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain. See the [LICENSE.md](LICENSE.md) file for details.
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
