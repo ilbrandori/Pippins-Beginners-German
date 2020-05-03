@@ -1,26 +1,22 @@
 ### **[GitHub Download](https://github.com/ilbrandori/Pippins-Beginners-German/tree/master/Decks) or [Ankiweb Download](https://ankiweb.net/shared/decks/Pippins)**
 
 # Pippins Beginners German
-[Pippins Beginners German](https://github.com/ilbrandori/Pippins-Beginners-Germans) is a collection of German language [Anki flashcard](https://ankiweb.net/shared/info/822769934) decks to help you improve your German language comprehension. Use Pippins Beginners German to master beginner (A-level) and intermediate (B-level) vocabulary and ace your German language proficency examinations.  
+[Pippins Beginners German](https://github.com/ilbrandori/Pippins-Beginners-Germans) is a collection of German language [Anki flashcards](https://apps.ankiweb.net/) to help you improve your German language comprehension. Use Pippins Beginners German to master beginner (A-level) and intermediate (B-level) vocabulary and ace your German language proficiency examinations.
 
-This repo contains *source files and downloadable **Anki Decks**.*
+This repo contains *source files* and *[downloadable Anki Decks](https://github.com/ilbrandori/Pippins-Beginners-German/tree/master/Decks)*.
 
-## Anki who?
+### Pippins goal is to help you **pass** the [German B2 language examination](https://www.goethe.de/de/spr/kup/prf/prf/gb2.html).
 
-If you've never heard of [Anki](https://apps.ankiweb.net/) you are in for a treat. Anki is an open source [spaced repetition system](https://en.wikipedia.org/wiki/Spaced_repetition) that allows you to memorize material faster. Think of flashcards on steroids. 
+## Anki?
 
-Check Anki out at: https://apps.ankiweb.net/ and see how other humans are using it to [better themselves](https://www.youtube.com/results?search_query=anki+learn).
+If you've never heard of [Anki](https://apps.ankiweb.net/) you are in for a treat. Anki is an open source [spaced repetition system](https://en.wikipedia.org/wiki/Spaced_repetition) that allows you to memorize material faster. Think of flashcards on steroids. [Check Anki out](https://apps.ankiweb.net/) and see how other humans are using it to [better themselves](https://www.youtube.com/results?search_query=anki+learn).
 
-## Project Goal
-I'd like to produce enough material to help anyone **pass** the German language [B2 examinaition](https://www.sprachenatelier-berlin.de/en/article/1228.german-as-a-second-language-proficiency-levels.html). 
+## Features
 
-
-## What's included?
-Most decks include:
-
+* 2000+ curated (A1 to B2 level) flashcards 
 * German to English / English to German flip cards with audio
 * German Sentence / English Sentence with audio
-* Word color coding and warning flags
+* Color coding and warning icons
 
 # Two step Cha-cha!
 
