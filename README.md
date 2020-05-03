@@ -1,9 +1,9 @@
-**[Download flashcards here](https://ankiweb.net/shared/info/822769934) or [here](https://ankiweb.net/shared/info/822769934)**
+### **[GitHub Download](https://github.com/ilbrandori/Pippins-Beginners-German/tree/master/Decks) or [Ankiweb Download](https://ankiweb.net/shared/decks/Pippins)**
 
 # Pippins Beginners German
 [Pippins Beginners German](https://github.com/ilbrandori/Pippins-Beginners-Germans) is a collection of German language [Anki flashcard](https://ankiweb.net/shared/info/822769934) decks to help you improve your German language comprehension. Use Pippins Beginners German to master beginner (A-level) and intermediate (B-level) vocabulary and ace your German language proficency examinations.  
 
-This repo contains source files and downloadable Anki Decks.
+This repo contains *source files and downloadable **Anki Decks**.*
 
 ## Anki who?
 
@@ -11,7 +11,7 @@ If you've never heard of [Anki](https://apps.ankiweb.net/) you are in for a trea
 
 Check Anki out at: https://apps.ankiweb.net/ and see how other humans are using it to [better themselves](https://www.youtube.com/results?search_query=anki+learn).
 
-## Project goal
+## Project Goal
 I'd like to produce enough material to help anyone **pass** the German language [B2 examinaition](https://www.sprachenatelier-berlin.de/en/article/1228.german-as-a-second-language-proficiency-levels.html). 
 
 
@@ -20,13 +20,11 @@ Most decks include:
 
 * German to English / English to German flip cards with audio
 * German Sentence / English Sentence with audio
-* Present, past, future and perfect conjugation tables
-* Auxiliary haben / sein indicator
-* Stammvokal change indicator
+* Word color coding and warning flags
 
 # Two step Cha-cha!
 
-## (1) Pick your Anki flavor and install
+## (1) Pick your OS flavor and install
 
 Anki is available for Windows, MacOS, Linux operating systems and supports both iPhone/Android devices. 
 Please choose: 
@@ -38,8 +36,8 @@ Please choose:
 
 See the [How to Download Anki and Begin Using It](https://www.youtube.com/watch?v=AjdUxCnAXJw) tutorial from The AnKing Youtube channel. I highly recommend this channel to understand *how to get the most of Anki*. Also, take a moment to understand how spaced repetition works and how Anki helps you achieve this.   
 
-## (2) Get the decks and begin
-[Download flashcards here](https://ankiweb.net/shared/info/822769934) or [here](https://ankiweb.net/shared/info/822769934)
+## (2) Download flashcards
+See the [Decks folder](https://github.com/ilbrandori/Pippins-Beginners-German/tree/master/Decks) for all available (including under development) flashcard collections. All linted, or proofread, decks are published at [Ankiweb](https://ankiweb.net/shared/decks/Pippins), use "Pippins" search keyword. 
 
 ## Contribute
 
