@@ -50,6 +50,6 @@ Do reach out!
 **Brando Rico** - *Initial seed and most of the grunt work* - 
 
 ## License
-Creative Commons Zero v1.0 Universal The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain. See the [LICENSE.md](LICENSE.md) file for details.
+Creative Commons Zero v1.0 Universal The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain. See the [LICENSE](https://github.com/ilbrandori/Pippins-Beginners-German/blob/master/LICENSE) file for details.
 
 
