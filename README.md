@@ -44,7 +44,20 @@ Kinda, but there are still ugly bugs, and typos to be uncovered. If you happen t
 * [Open an issue](https://github.com/ilbrandori/Pippins-Beginners-German/issues)
 * [Submit a pull request](https://github.com/ilbrandori/Pippins-Beginners-German/pulls)
 
-Do reach out!
+## Icons 
+Here's some icons you'll encounter using the flashcards.
+
+![](images/icons.png)
+
+## Warnings
+Warnings are pretty obvious, but here's what they mean.
+
+![](images/warning.png)
+
+## Colors
+Watchout for underlines!
+
+![](images/color-code.png)
 
 ## Authors
 **Brando Rico** - *Initial seed and most of the grunt work* - 
